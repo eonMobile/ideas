@@ -12,7 +12,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 <!-- ###Information Collection and Use   -->
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+The app does use third party services that may collect information used to identify you.
+It's important to note that as the developers, we are not responsible for the content posted in the Feeds and Trends sections of our app. These sections contain anonymously posted requests from other users, over which we have no control. If you encounter undesirable content or believe certain content infringes your rights, please contact us, and we will review the matter. However, the overall responsibility for content posted in these sections lies with the users who post it.
+If you have questions or concerns regarding this matter, please get in touch with us.
 
 <!-- ###Cookies   -->
 ### Cookies  
